@@ -1,3 +1,28 @@
+<style>
+@media print {
+  body {
+    font-size: 12px;
+    line-height: 1.4;
+    margin: 0;
+    padding: 0;
+  }
+  h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  h2 {
+    font-size: 16px;
+    margin-top: 12px;
+    margin-bottom: 8px;
+    border-bottom: 1px solid #eee;
+  }
+  p, ul {
+    margin-bottom: 8px;
+  }
+}
+</style>
+
 # Louis Marchais
 
 <div style="text-align: center; margin-bottom: 15px;">
@@ -71,28 +96,3 @@ Linux (Debian, Ubuntu), Windows, macOS
 
 </div>
 </div>
-
-<style>
-@media print {
-  body {
-    font-size: 12px;
-    line-height: 1.4;
-    margin: 0;
-    padding: 0;
-  }
-  h1 {
-    font-size: 24px;
-    margin-bottom: 10px;
-    text-align: center;
-  }
-  h2 {
-    font-size: 16px;
-    margin-top: 12px;
-    margin-bottom: 8px;
-    border-bottom: 1px solid #eee;
-  }
-  p, ul {
-    margin-bottom: 8px;
-  }
-}
-</style>
